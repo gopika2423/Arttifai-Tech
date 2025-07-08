@@ -1,4 +1,4 @@
-# 📝 Tkinter To-Do List App
+# 📝 To-Do List App
 
 A simple and enhanced **To-Do List application** built using **Python and Tkinter**.  
 This app helps users manage daily tasks with features like **priority setting**, **due dates**, **completion status**, and **task filtering** — all in a clean graphical interface.
